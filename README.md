@@ -1,7 +1,9 @@
 # 💫 About Me:
 Experienced **Full Stack Developer and Odoo Certified Professional** with strong expertise in  <br>**ERP development, enterprise automation, and AI-driven applications**.  <br>Focused on delivering **secure, scalable, and business-oriented systems**.<br><br>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=00B4D8&center=true&vCenter=true&width=850&lines=Certified+Software+Developer;Oracle+Certified+Foundation+Associate;Machine+Learning+%26+AI+Engineer;Enterprise-Grade+Solution+Builder" />
+</p>
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Ayush 2004@gmail.com) 
 
